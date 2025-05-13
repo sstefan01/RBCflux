@@ -10,7 +10,7 @@ The provided MATLAB script (`estimate_rbc_flux.mlx` or `estimate_rbc_flux.m`) us
 
 ## Files in this Repository
 
-* **`estimate_rbc_flux.mlx`**: A MATLAB Live Script providing a step-by-step guide to load data, run the model, and visualize results. This is recommended for an interactive experience. (Alternatively, an `estimate_rbc_flux.m` plain script might be provided).
+* **`RBC_flux_estimation.mlx`**: A MATLAB Live Script providing a step-by-step guide to load data, run the model, and visualize results. This is recommended for an interactive experience. (Alternatively, an `estimate_rbc_flux.m` plain script might be provided).
 * **`net_flux.mat`**: A MATLAB data file containing the pre-trained 1D CNN model.
 * **`OCT_timetraces.mat.zip`**: A zipped archive containing sample OCT data.
     * **IMPORTANT:** You must **unzip this file** after downloading to obtain `OCT_timetraces.mat`.
